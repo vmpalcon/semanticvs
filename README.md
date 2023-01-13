@@ -1,1 +1,3 @@
 # semanticvs
+
+Update readme text
